@@ -1,0 +1,65 @@
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\ref\AddingPrefixRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddPrefixDialog.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddPrefixDialog.baml
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\ref\AddingPrefixRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.pdb
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.deps.json
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.dll
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\ref\AddingPrefixRules.dll
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.pdb
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringAction.pdb
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddPrefixDialog.g.cs
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules_MarkupCompile.cache
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules_MarkupCompile.lref
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddPrefixDialog.baml
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.g.resources
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.csproj.CoreCompileInputs.cache
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.dll
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\ref\AddingPrefixRules.dll
+D:\CODE WPF 19_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\ref\AddingPrefixRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\AddingPrefixRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddPrefixDialog.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules_MarkupCompile.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules_MarkupCompile.lref
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddPrefixDialog.baml
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.g.resources
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.csproj.CopyComplete
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\ref\AddingPrefixRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingPrefixRules\obj\Debug\net5.0-windows\AddingPrefixRules.pdb

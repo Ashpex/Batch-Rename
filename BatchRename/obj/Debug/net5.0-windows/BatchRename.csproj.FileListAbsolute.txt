@@ -1,0 +1,134 @@
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.exe
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.runtimeconfig.json
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.runtimeconfig.dev.json
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\ref\BatchRename.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\ControlzEx.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\Fluent.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\ReplaceRules.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\App.baml
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.Fody.CopyLocal.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\ref\BatchRename.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.genruntimeconfig.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.exe
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.runtimeconfig.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.runtimeconfig.dev.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\ref\BatchRename.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\ControlzEx.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\Fluent.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\App.baml
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.Fody.CopyLocal.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\ref\BatchRename.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.genruntimeconfig.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\ControlzEx.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\Fluent.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringAction.pdb
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\App.g.cs
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename_MarkupCompile.cache
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename_MarkupCompile.lref
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\App.baml
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\MainWindow.baml
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.g.resources
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.CoreCompileInputs.cache
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.Fody.CopyLocal.cache
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\ref\BatchRename.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.pdb
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.exe
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.deps.json
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.runtimeconfig.json
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.runtimeconfig.dev.json
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\ref\BatchRename.dll
+D:\CODE WPF 19_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.pdb
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.genruntimeconfig.cache
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\help.g.cs
+D:\CODE WPF 19_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\help.baml
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.exe
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.runtimeconfig.json
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.runtimeconfig.dev.json
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\ref\BatchRename.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\BatchRename.pdb
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\ControlzEx.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\Fluent.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\help.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\App.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename_MarkupCompile.cache
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename_MarkupCompile.lref
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\App.baml
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\help.baml
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\MainWindow.baml
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.g.resources
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.Fody.CopyLocal.cache
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.csproj.CopyComplete
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\ref\BatchRename.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.pdb
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\obj\Debug\net5.0-windows\BatchRename.genruntimeconfig.cache
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\ConvertAllCharactersRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\BatchRename\bin\Debug\net5.0-windows\ConvertAllCharactersRules.pdb

@@ -1,0 +1,65 @@
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\ref\AddCounterToTheEnd.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterDialog.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterDialog.baml
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\ref\AddCounterToTheEnd.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.pdb
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.deps.json
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.dll
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\ref\AddCounterToTheEnd.dll
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.pdb
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringAction.pdb
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterDialog.g.cs
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd_MarkupCompile.cache
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd_MarkupCompile.lref
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterDialog.baml
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.g.resources
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.csproj.CoreCompileInputs.cache
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.dll
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\ref\AddCounterToTheEnd.dll
+D:\CODE WPF 19_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\ref\AddCounterToTheEnd.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\AddCounterToTheEnd.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterDialog.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd_MarkupCompile.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd_MarkupCompile.lref
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterDialog.baml
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.g.resources
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.csproj.CopyComplete
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\ref\AddCounterToTheEnd.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddCounterToTheEnd\obj\Debug\net5.0-windows\AddCounterToTheEnd.pdb

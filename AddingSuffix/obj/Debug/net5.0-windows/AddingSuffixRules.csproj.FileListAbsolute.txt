@@ -1,0 +1,65 @@
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\ref\AddingSuffixRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddSuffixDialog.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddSuffixDialog.baml
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\ref\AddingSuffixRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.pdb
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.deps.json
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.dll
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\ref\AddingSuffixRules.dll
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.pdb
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringAction.pdb
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddSuffixDialog.g.cs
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules_MarkupCompile.cache
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules_MarkupCompile.lref
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddSuffixDialog.baml
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.g.resources
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.csproj.CoreCompileInputs.cache
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.dll
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\ref\AddingSuffixRules.dll
+D:\CODE WPF 19_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\ref\AddingSuffixRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\AddingSuffixRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddSuffixDialog.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules_MarkupCompile.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules_MarkupCompile.lref
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddSuffixDialog.baml
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.g.resources
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.csproj.CopyComplete
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\ref\AddingSuffixRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\AddingSuffix\obj\Debug\net5.0-windows\AddingSuffixRules.pdb

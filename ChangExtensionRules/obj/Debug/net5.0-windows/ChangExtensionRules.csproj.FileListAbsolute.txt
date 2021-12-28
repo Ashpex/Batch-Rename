@@ -1,0 +1,65 @@
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ref\ChangExtensionRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangeExtensionActionDialog.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangeExtensionActionDialog.baml
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ref\ChangExtensionRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.pdb
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.deps.json
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.dll
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ref\ChangExtensionRules.dll
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.pdb
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringAction.pdb
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangeExtensionActionDialog.g.cs
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules_MarkupCompile.cache
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules_MarkupCompile.lref
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangeExtensionActionDialog.baml
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.g.resources
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.csproj.CoreCompileInputs.cache
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.dll
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ref\ChangExtensionRules.dll
+D:\CODE WPF 19_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ref\ChangExtensionRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\ChangExtensionRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangeExtensionActionDialog.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules_MarkupCompile.cache
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules_MarkupCompile.lref
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangeExtensionActionDialog.baml
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.g.resources
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.csproj.CopyComplete
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ref\ChangExtensionRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ChangExtensionRules\obj\Debug\net5.0-windows\ChangExtensionRules.pdb

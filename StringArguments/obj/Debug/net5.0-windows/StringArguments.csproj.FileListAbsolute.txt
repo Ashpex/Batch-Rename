@@ -1,0 +1,46 @@
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\bin\Debug\net5.0-windows\ref\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\obj\Debug\net5.0-windows\ref\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\bin\Debug\net5.0-windows\ref\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\obj\Debug\net5.0-windows\ref\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\ref\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.deps.json
+D:\CODE WPF 19_3\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\StringArguments\bin\Debug\net5.0-windows\ref\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\bin\Debug\net5.0-windows\ref\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\ref\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringArguments\obj\Debug\net5.0-windows\StringArguments.pdb

@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons\add.png" />
+    <None Remove="icons\check.png" />
+    <None Remove="icons\delete.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StringAction\StringAction.csproj" />
+    <ProjectReference Include="..\StringArguments\StringArguments.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons\add.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="icons\check.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="icons\delete.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

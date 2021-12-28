@@ -1,0 +1,65 @@
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ref\ConvertAllCharactersRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\convertAllCharactersDialog.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\convertAllCharactersDialog.baml
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ref\ConvertAllCharactersRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.pdb
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.deps.json
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.dll
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ref\ConvertAllCharactersRules.dll
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.pdb
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringAction.pdb
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\convertAllCharactersDialog.g.cs
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules_MarkupCompile.cache
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules_MarkupCompile.lref
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\convertAllCharactersDialog.baml
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.g.resources
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.csproj.CoreCompileInputs.cache
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.dll
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ref\ConvertAllCharactersRules.dll
+D:\CODE WPF 19_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ref\ConvertAllCharactersRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\ConvertAllCharactersRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\convertAllCharactersDialog.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules_MarkupCompile.cache
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules_MarkupCompile.lref
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\convertAllCharactersDialog.baml
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.g.resources
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.csproj.CopyComplete
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ref\ConvertAllCharactersRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ConvertAllCharactersRules\obj\Debug\net5.0-windows\ConvertAllCharactersRules.pdb

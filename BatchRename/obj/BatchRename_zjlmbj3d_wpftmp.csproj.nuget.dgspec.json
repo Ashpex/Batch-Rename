@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CODE WPF 19_3\\BatchRename\\BatchRename\\BatchRename.csproj": {}
+  },
+  "projects": {
+    "D:\\CODE WPF 19_3\\BatchRename\\BatchRename\\BatchRename.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CODE WPF 19_3\\BatchRename\\BatchRename\\BatchRename.csproj",
+        "projectName": "BatchRename",
+        "projectPath": "D:\\CODE WPF 19_3\\BatchRename\\BatchRename\\BatchRename.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-SOVQGT39\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE WPF 19_3\\BatchRename\\BatchRename\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP.LAPTOP-SOVQGT39\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "D:\\CODE WPF 19_3\\BatchRename\\StringAction\\StringAction.csproj": {
+                "projectPath": "D:\\CODE WPF 19_3\\BatchRename\\StringAction\\StringAction.csproj"
+              },
+              "D:\\CODE WPF 19_3\\BatchRename\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "D:\\CODE WPF 19_3\\BatchRename\\StringArguments\\StringArguments.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Fluent.Ribbon": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CODE WPF 19_3\\BatchRename\\StringAction\\StringAction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CODE WPF 19_3\\BatchRename\\StringAction\\StringAction.csproj",
+        "projectName": "StringAction",
+        "projectPath": "D:\\CODE WPF 19_3\\BatchRename\\StringAction\\StringAction.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-SOVQGT39\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE WPF 19_3\\BatchRename\\StringAction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP.LAPTOP-SOVQGT39\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "D:\\CODE WPF 19_3\\BatchRename\\StringArguments\\StringArguments.csproj": {
+                "projectPath": "D:\\CODE WPF 19_3\\BatchRename\\StringArguments\\StringArguments.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CODE WPF 19_3\\BatchRename\\StringArguments\\StringArguments.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CODE WPF 19_3\\BatchRename\\StringArguments\\StringArguments.csproj",
+        "projectName": "StringArguments",
+        "projectPath": "D:\\CODE WPF 19_3\\BatchRename\\StringArguments\\StringArguments.csproj",
+        "packagesPath": "C:\\Users\\HP.LAPTOP-SOVQGT39\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE WPF 19_3\\BatchRename\\StringArguments\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP.LAPTOP-SOVQGT39\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

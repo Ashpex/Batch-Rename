@@ -1,0 +1,32 @@
+﻿<Window x:Class="ConvertAllCharactersRules.convertAllCharactersDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConvertAllCharactersRules"
+        mc:Ignorable="d"
+        Title="convertAllCharactersDialog" Height="450" Width="800" Loaded="Window_Loaded">
+    <Canvas>
+        <Label Content="Newcase Dialog" Canvas.Left="273" Canvas.Top="10" FontWeight="Bold" FontSize="20" Width="223" HorizontalContentAlignment="Center"/>
+
+        <Label Content="Convert All Character Options" FontSize="16" Canvas.Left="91" Canvas.Top="155"/>
+        <ComboBox Name="convertAllCharacterCombobox" Width="150" Height="32" Canvas.Left="346" Canvas.Top="155">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <DockPanel>
+                        <TextBlock Text="{Binding NewConvertAllCharacters}"/>
+                    </DockPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <Button  Name="SubmitButton" FontSize="16" Margin="0 0 10 0" Click="SubmitButton_Click" Canvas.Left="243" Canvas.Top="275" Width="100" Height="32">
+            <TextBlock Text="Submit"/>
+        </Button>
+        <Button  Name="CancelButton" FontSize="16" Click="CancelButton_Click" Canvas.Left="472" Canvas.Top="275" Width="100" Height="32">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Cancel"/>
+            </StackPanel>
+        </Button>
+    </Canvas>
+</Window>

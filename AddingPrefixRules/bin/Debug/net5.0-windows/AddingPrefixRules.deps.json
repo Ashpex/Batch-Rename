@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AddingPrefixRules/1.0.0": {
+        "dependencies": {
+          "StringAction": "1.0.0",
+          "StringArguments": "1.0.0"
+        },
+        "runtime": {
+          "AddingPrefixRules.dll": {}
+        }
+      },
+      "StringAction/1.0.0": {
+        "dependencies": {
+          "StringArguments": "1.0.0"
+        },
+        "runtime": {
+          "StringAction.dll": {}
+        }
+      },
+      "StringArguments/1.0.0": {
+        "runtime": {
+          "StringArguments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddingPrefixRules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringAction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringArguments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

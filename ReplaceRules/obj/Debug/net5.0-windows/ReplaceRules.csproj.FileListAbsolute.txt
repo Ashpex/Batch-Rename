@@ -1,0 +1,87 @@
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ref\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceActionDialog.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceActionDialog.baml
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.CopyComplete
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ref\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ref\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceActionDialog.g.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules_MarkupCompile.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules_MarkupCompile.lref
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceActionDialog.baml
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.g.resources
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ref\ReplaceRules.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.pdb
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.deps.json
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.dll
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ref\ReplaceRules.dll
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.pdb
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringAction.pdb
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceActionDialog.g.cs
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules_MarkupCompile.cache
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules_MarkupCompile.lref
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceActionDialog.baml
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.g.resources
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.CoreCompileInputs.cache
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.dll
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ref\ReplaceRules.dll
+D:\CODE WPF 19_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ref\ReplaceRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceActionDialog.g.cs
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules_MarkupCompile.cache
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules_MarkupCompile.lref
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceActionDialog.baml
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.g.resources
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.csproj.CopyComplete
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ref\ReplaceRules.dll
+D:\pp\ltwins\project_1_3\BatchRename\ReplaceRules\obj\Debug\net5.0-windows\ReplaceRules.pdb

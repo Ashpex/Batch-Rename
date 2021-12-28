@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ReplaceRules</id>
+    <version>1.0.0</version>
+    <authors>ReplaceRules</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="StringAction" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="StringArguments" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\lhqua\HongQuan\LTWindows\BatchRename\ReplaceRules\bin\Debug\net5.0-windows\ReplaceRules.dll" target="lib\net5.0-windows7.0\ReplaceRules.dll" />
+  </files>
+</package>

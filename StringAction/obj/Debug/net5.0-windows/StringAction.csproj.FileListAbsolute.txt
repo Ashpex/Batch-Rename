@@ -1,0 +1,60 @@
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\bin\Debug\net5.0-windows\ref\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.CopyComplete
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\ref\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\Project01\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.deps.json
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\bin\Debug\net5.0-windows\ref\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\bin\Debug\net5.0-windows\StringArguments.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\bin\Debug\net5.0-windows\StringArguments.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.AssemblyReference.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.AssemblyInfoInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.AssemblyInfo.cs
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.CoreCompileInputs.cache
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\ref\StringAction.dll
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.pdb
+C:\Users\lhqua\HongQuan\LTWindows\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringArguments.dll
+D:\CODE WPF 19_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.AssemblyReference.cache
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.AssemblyInfoInputs.cache
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.AssemblyInfo.cs
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.CoreCompileInputs.cache
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.CopyComplete
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\ref\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.pdb
+D:\CODE WPF 19_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.deps.json
+D:\CODE WPF 19_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\StringAction\bin\Debug\net5.0-windows\ref\StringAction.dll
+D:\CODE WPF 19_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.deps.json
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\bin\Debug\net5.0-windows\ref\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringAction.pdb
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringArguments.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\bin\Debug\net5.0-windows\StringArguments.pdb
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.AssemblyReference.cache
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.GeneratedMSBuildEditorConfig.editorconfig
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.AssemblyInfoInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.AssemblyInfo.cs
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.CoreCompileInputs.cache
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.csproj.CopyComplete
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\ref\StringAction.dll
+D:\pp\ltwins\project_1_3\BatchRename\StringAction\obj\Debug\net5.0-windows\StringAction.pdb

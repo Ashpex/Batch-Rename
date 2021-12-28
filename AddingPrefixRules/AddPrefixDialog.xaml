@@ -1,0 +1,23 @@
+﻿<Window x:Class="AddingPrefixRules.AddPrefixDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddingPrefixRules"
+        mc:Ignorable="d"
+        Title="AddPrefixDialog" Height="450" Width="800">
+    <Canvas>
+        <Label Content="Add Prefix Action Dialog" Canvas.Left="260" Canvas.Top="40" FontWeight="Bold" FontSize="20" Width="280" HorizontalContentAlignment="Center"/>
+        <Label Content="Input String To Add: " FontSize="20" Width="223" Canvas.Left="104" Canvas.Top="135"/>
+
+        <TextBox FontSize="20" Name="strNeedToAdd" Height="38" Width="263" Canvas.Left="327" Canvas.Top="135" RenderTransformOrigin="0.145,0.807"/>
+
+        <Button  Name="SubmitButton" Click="SubmitButton_Click" Canvas.Left="270" Canvas.Top="298" Height="32" Width="100">
+            <TextBlock TextAlignment="Center" Text="Submit" FontSize="20" RenderTransformOrigin="-0.262,-0.892"/>
+        </Button>
+        <Button  Name="CancelButton" Click="CancelButton_Click" Canvas.Left="440" Canvas.Top="298" Height="32" Width="100">
+            <TextBlock TextAlignment="Center" Text="Cancel" FontSize="20"/>
+        </Button>
+
+    </Canvas>
+</Window>
